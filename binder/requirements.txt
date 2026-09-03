@@ -9,4 +9,4 @@ torch
 torchvision
 matplotlib
 scikit-learn
-dotenv%
+dotenv
