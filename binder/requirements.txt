@@ -1,0 +1,12 @@
+pandas
+torchaudio
+sentence-transformers
+jupyterlab
+ipywidgets
+transformers
+Pillow
+torch
+torchvision
+matplotlib
+scikit-learn
+dotenv%
