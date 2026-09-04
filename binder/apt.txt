@@ -1,0 +1,7 @@
+htop
+btop
+vim
+curl
+wget
+net-tools
+lsof
