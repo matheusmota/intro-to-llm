@@ -2,6 +2,8 @@ jupyterlab
 ipywidgets
 ipykernel
 tqdm
+jupyter-server-proxy
+jupyter-vscode-proxy
 
 torch
 torchvision
@@ -13,5 +15,10 @@ scikit-learn
 
 Pillow
 matplotlib
+plotly
+igraph
+jgraph
+pprintpp
+pandas
 
 python-dotenv
